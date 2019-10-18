@@ -4,7 +4,7 @@ module.exports = {
   serviceWorker: true,
   themeConfig: {
     sidebar: [
-      "/",
+      "0_introduction",
       "1_every_company_is_remote",
       "2_startups",
       "3_managing",
