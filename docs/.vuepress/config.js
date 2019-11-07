@@ -34,5 +34,13 @@ module.exports = {
         rel: "noopener"
       }
     ]
-  }
+  },
+  plugins: [
+    [
+      "@vuepress/google-analytics",
+      {
+        ga: "UA-89429912-2"
+      }
+    ]
+  ]
 };
