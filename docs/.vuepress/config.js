@@ -4,6 +4,20 @@ module.exports = {
     "Moonlight's tactical guide to working from anywhere! It covers getting things done, hiring great people, and growing quickly - based on proven tactics from the companies and developers in Moonlight's global community.",
   serviceWorker: true,
   themeConfig: {
+    docsDir: "docs",
+    editLinks: true,
+    editLinkText: "Suggest an improvement",
+    logo: '/assets/img/logo-full-blue.svg',
+    nav: [
+      {
+        text: "Moonlight",
+        link: "https://www.moonlightwork.com",
+        rel: "noopener"
+      }
+    ],
+    repo: "moonlightwork/remote-work-encyclopedia",
+    repoLabel: "Contribute",
+    smoothScroll: true,
     sidebar: [
       "/",
       "story",
@@ -21,19 +35,6 @@ module.exports = {
       "career_growth",
       "moonlight"
     ],
-    repo: "moonlightwork/remote-work-encyclopedia",
-    repoLabel: "Contribute",
-    docsDir: "docs",
-    editLinks: true,
-    editLinkText: "Suggest an improvement",
-    smoothScroll: true,
-    nav: [
-      {
-        text: "Moonlight",
-        link: "https://www.moonlightwork.com",
-        rel: "noopener"
-      }
-    ]
   },
   plugins: [
     [
