@@ -1,23 +1,38 @@
 module.exports = {
   title: "Remote Work Encyclopedia",
-  description: "Guide from Moonlight",
+  description:
+    "Moonlight's tactical guide to working from anywhere! It covers getting things done, hiring great people, and growing quickly - based on proven tactics from the companies and developers in Moonlight's global community.",
   serviceWorker: true,
   themeConfig: {
     sidebar: [
       "/",
-      "1_every_company_is_remote",
-      "2_startups",
-      "3_managing",
-      "4_hiring",
-      "5_work_from",
-      "6_communication",
-      "7_culture",
-      "8_job_seeking",
-      "9_security",
-      "10_freelancing",
-      "11_digital_nomad",
-      "12_career_growth",
-      "13_moonlight"
+      "story",
+      "every_company_is_remote",
+      "startups",
+      "managing",
+      "hiring",
+      "work_from",
+      "communication",
+      "culture",
+      "job_seeking",
+      "security",
+      "freelancing",
+      "digital_nomad",
+      "career_growth",
+      "moonlight"
+    ],
+    repo: "moonlightwork/remote-work-encyclopedia",
+    repoLabel: "Contribute",
+    docsDir: "docs",
+    editLinks: true,
+    editLinkText: "Suggest an improvement",
+    smoothScroll: true,
+    nav: [
+      {
+        text: "Moonlight",
+        link: "https://www.moonlightwork.com",
+        rel: "noopener"
+      }
     ]
   }
 };
