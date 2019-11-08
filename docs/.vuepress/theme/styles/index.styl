@@ -45,7 +45,6 @@ $light-5 = #EAEAEA
 $light-6 = #E0E0E0
 $white = #ffffff
 
-
 /* Spacing */
 /* For margin, padding, etc */
 $spacing-0 = 0
@@ -316,9 +315,9 @@ $wrapper
 /* === Index === */
 // https://github.com/vuejs/vuepress/blob/master/packages/%40vuepress/theme-default/styles/index.styl
 html, body
-  padding 0
-  margin 0
   background-color #fff
+  margin 0
+  padding 0
 
 body
   font-family $font-sans
@@ -326,6 +325,7 @@ body
   -moz-osx-font-smoothing grayscale
   font-size 16px
   color $textColor
+
 
 .page
   padding-left $sidebarWidth
@@ -337,7 +337,7 @@ body
   left 0
   right 0
   height $navbarHeight
-  background-color #fff
+  background-color $white
   box-sizing border-box
   border-bottom 1px solid $borderColor
 
@@ -352,7 +352,7 @@ body
 
 .sidebar
   font-size 16px
-  background-color #fff
+  background-color $white
   width $sidebarWidth
   position fixed
   z-index 10
@@ -460,6 +460,9 @@ a.header-anchor
 
   &:hover
     text-decoration none
+
+.icon.outbound
+  display none
 
 code, kbd, .line-number
   font-family source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace
