@@ -10,7 +10,6 @@ module.exports = {
     docsDir: "docs",
     editLinks: true,
     editLinkText: "Suggest an improvement",
-    logo: '/assets/img/logo-full-blue.svg',
     nav: [
       {
         text: "Moonlight",
