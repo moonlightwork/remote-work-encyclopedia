@@ -31,16 +31,16 @@ module.exports = {
     sidebar: [
       "/",
       "globalization",
-      "every_company_is_remote",
+      "every-company-is-remote",
       "startups",
       "hiring",
       "managing",
       "security",
-      "work_from",
-      "finding_a_job",
-      "career_growth",
+      "work-from",
+      "finding-a-job",
+      "career-growth",
       "freelancing",
-      "digital_nomad",
+      "digital-nomad",
       "moonlight"
     ]
   },
