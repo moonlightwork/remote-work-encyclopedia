@@ -1,4 +1,10 @@
-# Career Growth
+---
+title: Career growth
+---
+
+![Career growth](./assets/header-illustrations/9.png)
+
+# Career growth
 
 In the old world of work, you had to choose between flexibility and success. It was rare to find a position where you could work outside the headquarters, set your own hours, _and_ maintain career growth.
 

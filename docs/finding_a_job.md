@@ -1,3 +1,9 @@
+---
+title: Land a remote job
+---
+
+![Land a remote job](./assets/header-illustrations/8.png)
+
 # Land a remote job
 
 Job searching will always be hard. Whether you want a 9-5 in an office or a remote job with flexibility, you are still making a relatively long-term decision about your daily existence (⅓ of your life is spent working!) With the shift towards location-independent careers, there are tons of new possibilities that allow you to build a successful career on your terms.

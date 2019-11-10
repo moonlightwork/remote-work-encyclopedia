@@ -1,3 +1,9 @@
+---
+title: Where to work
+---
+
+![Where to work](./assets/header-illustrations/7.png)
+
 # Where to work
 
 Some remote workers love to work from home, and others need the separation of an office to feel sane. The great thing about a remote team is that you have options, and each person can create their own setup.

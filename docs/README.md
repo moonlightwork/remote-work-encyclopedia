@@ -1,3 +1,9 @@
+---
+title: Introduction
+---
+
+![Welcome to the Remote Work Encyclopedia, written by and for the moonlightwork.com community](./assets/header-illustrations/cover.png)
+
 # Introduction
 
 We are living in a global knowledge economy. People who might never meet face-to-face are working together daily through the internet. Knowledge work is becoming more accessible for people everywhere in the world, and technology talent is no longer exclusive to Silicon Valley.
@@ -20,10 +26,10 @@ Platforms like LinkedIn didn’t make it easy to build a new network - just to l
 
 Factoring all this in, the duo began to build [Moonlight](https://www.moonlightwork.com) - a professional network of software developers - with the goal of helping the world work together to build the future.
 
-Today [Moonlight](https://www.moonlightwork.com)'s community helps thousands of developers get access to flexible work and build careers outside of the Bay Area. Companies ranging from one-person startups to publicly-traded companies use Moonlight to build their networks. 
+Today [Moonlight](https://www.moonlightwork.com)'s community helps thousands of developers get access to flexible work and build careers outside of the Bay Area. Companies ranging from one-person startups to publicly-traded companies use Moonlight to build their networks.
 
 ## How to use this encyclopedia
 
-Our goal in writing this is to keep it as tactical as possible, and to address both hiring and finding work. So, feel free to skip around to different sections as you find them relevant. 
+Our goal in writing this is to keep it as tactical as possible, and to address both hiring and finding work. So, feel free to skip around to different sections as you find them relevant.
 
-If you have any feedback, email us at [team@moonlightwork.com](mailto:team@moonlightwork.com), or [contribute directly on Github](https://github.com/moonlightwork/remote-work-encyclopedia). 
+If you have any feedback, email us at [team@moonlightwork.com](mailto:team@moonlightwork.com), or [contribute directly on Github](https://github.com/moonlightwork/remote-work-encyclopedia).
