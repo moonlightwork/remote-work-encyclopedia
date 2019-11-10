@@ -3,13 +3,21 @@ module.exports = {
   description:
     "Moonlight's tactical guide to working from anywhere! It covers getting things done, hiring great people, and growing quickly - based on proven tactics from the companies and developers in Moonlight's global community.",
   head: [
-    ['link', { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Montserrat:400,500,600|Roboto:400,400i,500,700&display=swap' }],
+    [
+      "link",
+      {
+        rel: "stylesheet",
+        href:
+          "https://fonts.googleapis.com/css?family=Montserrat:400,500,600|Roboto:400,400i,500,700&display=swap"
+      }
+    ]
   ],
   serviceWorker: true,
   themeConfig: {
     docsDir: "docs",
     editLinks: true,
     editLinkText: "Suggest an improvement",
+    logo: "/assets/img/rwe-logo.svg",
     nav: [
       {
         text: "Moonlight",
@@ -37,7 +45,7 @@ module.exports = {
       "digital_nomad",
       "career_growth",
       "moonlight"
-    ],
+    ]
   },
   plugins: [
     [
