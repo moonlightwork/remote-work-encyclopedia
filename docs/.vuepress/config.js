@@ -53,7 +53,8 @@ module.exports = {
       allowAll: true
     },
     sitemap: {
-      hostname: "https://www.remoteworkencyclopedia.com"
+      hostname: "https://www.remoteworkencyclopedia.com",
+      exclude: ["/404.html"]
     }
   }
 };
