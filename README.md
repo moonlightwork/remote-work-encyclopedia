@@ -37,6 +37,4 @@ Please see [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## License
 
-This is a book, not a software project.
-
-Please see [LICENSE.md](LICENSE.md)
+This is a book, not a software project. Please see [LICENSE](LICENSE)
