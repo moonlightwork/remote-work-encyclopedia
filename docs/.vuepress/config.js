@@ -31,7 +31,7 @@ module.exports = {
     sidebar: [
       "markdown_examples",
       "/",
-      "story",
+      "globalization",
       "every_company_is_remote",
       "startups",
       "managing",
