@@ -29,7 +29,6 @@ module.exports = {
     repoLabel: "Contribute",
     smoothScroll: true,
     sidebar: [
-      "markdown_examples",
       "/",
       "globalization",
       "every_company_is_remote",
