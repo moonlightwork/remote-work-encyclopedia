@@ -44,12 +44,16 @@ module.exports = {
       "moonlight"
     ]
   },
-  plugins: [
-    [
-      "@vuepress/google-analytics",
-      {
-        ga: "UA-89429912-2"
-      }
-    ]
-  ]
+  plugins: {
+    "@vuepress/google-analytics": {
+      ga: "UA-89429912-2"
+    },
+    robots: {
+      host: "https://www.remoteworkencyclopedia.com",
+      allowAll: true
+    },
+    sitemap: {
+      hostname: "https://www.remoteworkencyclopedia.com"
+    }
+  }
 };
