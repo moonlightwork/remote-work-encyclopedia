@@ -1,5 +1,7 @@
 # Remote Work Encyclopedia
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a3cf2bad-facd-4953-b5a3-b3601226c41f/deploy-status)](https://app.netlify.com/sites/remote-work-encyclopedia/deploys)
+
 [Moonlight](https://www.moonlightwork.com)'s tactical guide to working from anywhere! It covers getting things done, hiring great people, and growing quickly, based on proven tactics from the companies and developers in Moonlight's global community.
 
 See the guide published at [RemoteWorkEncyclopedia.com](https://remoteworkencyclopedia.com)
