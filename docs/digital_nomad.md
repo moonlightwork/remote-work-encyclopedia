@@ -1,4 +1,10 @@
-# Work as a Digital Nomad
+---
+title: Work as a digital nomad
+---
+
+![Work as a digital nomad](./assets/header-illustrations/11.png)
+
+# Work as a digital nomad
 
 We’re picking back up on the introduction story! Shortly after traveling to Mexico City, Emma and Phillip (Moonlight founders) traded in their taco diet to explore street cuisine in other cities. They lived as digital nomads for two years while building a platform where like-minded individuals could do the same.
 

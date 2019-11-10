@@ -1,3 +1,9 @@
+---
+title: Manage a remote team
+---
+
+![Manage a remote team](./assets/header-illustrations/5.png)
+
 # Manage a remote team
 
 Whether you work in an office or from Starbucks, being a manager is a hard job. You have to be the listener, planner, educator, and cheerleader for a group of people working towards a larger vision.

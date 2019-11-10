@@ -1,3 +1,9 @@
+---
+title: Security essentials
+---
+
+![Security essentials](./assets/header-illustrations/6.png)
+
 # Security essentials
 
 Intro about how starting a remote company is now possible since you don’t need to manage your own physical servers. A bunch of services have made this possible. But, you still need to make sure your code and IP are secure.

@@ -1,3 +1,9 @@
+---
+title: Become a remote contractor
+---
+
+![Become a remote contractor](./assets/header-illustrations/10.png)
+
 # Become a remote contractor
 
 Building your own consulting business means you get to be your own boss, set your hours, and work from wherever. It also means you are running an entire business. You need to figure out the logistics of sales, getting paid, taxes, insurance, account management, and buying your own office setup.

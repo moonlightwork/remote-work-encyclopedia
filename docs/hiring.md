@@ -1,3 +1,9 @@
+---
+title: Hire a great team
+---
+
+![Hire a great team](./assets/header-illustrations/4.png)
+
 # Hire a great team
 
 Hiring remotely requires a new way of thinking in many ways, including your interview process. It de-risks your hiring decisions and helps you identify the best people on the market (or even off the market!)

@@ -1,3 +1,9 @@
+---
+title: How Moonlight does remote
+---
+
+![How Moonlight does remote](./assets/header-illustrations/12.png)
+
 # How Moonlight does remote
 
 This guide was brought to you by the Moonlight team and community of developers. We are a fully remote company, and are working to build a future where more people get to work with flexibility. Transparency is part of our DNA, so we’re hoping these resources will help you grow!

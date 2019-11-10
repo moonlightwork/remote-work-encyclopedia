@@ -1,3 +1,9 @@
+---
+title: Build your remote startup
+---
+
+![Build your remote startup](./assets/header-illustrations/3.png)
+
 # Build your remote startup
 
 Starting a company with a remote-first mindset is a great way to succeed in today’s landscape. The price, access to talent, and flexibility are huge advantages. But, there are still challenges that are unique to being outside of Silicon Valley.

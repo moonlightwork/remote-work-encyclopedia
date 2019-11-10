@@ -1,4 +1,10 @@
-## A brief history of the globalized economy
+---
+title: The New Digital Economy
+---
+
+![The New Digital Economy](./assets/header-illustrations/1.png)
+
+# The New Digital Economy
 
 To understand the efficacy of remote work, we must first understand the history of how goods and knowledge traveled.
 
