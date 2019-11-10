@@ -36,14 +36,12 @@ module.exports = {
       "startups",
       "managing",
       "hiring",
-      "work_from",
-      "communication",
-      "culture",
-      "job_seeking",
       "security",
+      "work_from",
+      "finding_a_job",
+      "career_growth",
       "freelancing",
       "digital_nomad",
-      "career_growth",
       "moonlight"
     ]
   },
