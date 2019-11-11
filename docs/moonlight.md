@@ -8,7 +8,7 @@ title: How Moonlight does remote
 
 This guide was brought to you by the Moonlight team and community of developers. We are a fully remote company, and are working to build a future where more people get to work with flexibility. Transparency is part of our DNA, so we’re hoping these resources will help you grow!
 
-How Moonlight does remote work:
+## Resources from the Moonlight team:
 
 - Moonlight on the future of work - [https://www.moonlightwork.com/blog/values-future-of-work](https://www.moonlightwork.com/blog/values-future-of-work)
 
@@ -22,7 +22,7 @@ How Moonlight does remote work:
 
 - How to find a technical co-founder - [https://www.moonlightwork.com/blog/finding-a-technical-co-founder](https://www.moonlightwork.com/blog/finding-a-technical-co-founder)
 
-Coming soon:
+## Coming soon:
 
 - **Communication best practices** - We have a list of all the communication tools we use, with best practices on how and when to use each one. Email lists are the top tool on the priority list, synchronous tools like Slack follow.
 
@@ -43,3 +43,5 @@ Coming soon:
 - **Offsites** - We do in-person offsites 2-3 times per year. As a remote team, this is the time to connect on a personal level and collaborate on ideas.
 
 - **Videos instead of meetings** - When events happen that don’t require a meeting, like a product handoff, or bug report - we use Loom videos. This screen recording software is a great way to communicate complicated ideas in a quick and effective way.
+
+![The New Digital Economy](./assets/divider-illustrations/divider-4.png)

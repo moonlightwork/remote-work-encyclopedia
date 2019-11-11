@@ -101,3 +101,5 @@ More resources on how and why to run a structured interview:
 - [http://www.greenhouse.io/blog/is-a-structured-interview-really-necessary-yes-and-heres-why](http://www.greenhouse.io/blog/is-a-structured-interview-really-necessary-yes-and-heres-why)
 
 - [https://www.lever.co/blog/a-step-by-step-guide-to-cultivating-diversity-and-inclusion-part-4-reducing-hiring-bias/](https://www.lever.co/blog/a-step-by-step-guide-to-cultivating-diversity-and-inclusion-part-4-reducing-hiring-bias/)
+
+![The New Digital Economy](./assets/divider-illustrations/divider-8.png)
