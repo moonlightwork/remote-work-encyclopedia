@@ -33,3 +33,5 @@ Today [Moonlight](https://www.moonlightwork.com)'s community helps thousands of 
 Our goal in writing this is to keep it as tactical as possible, and to address both hiring and finding work. So, feel free to skip around to different sections as you find them relevant.
 
 If you have any feedback, email us at [team@moonlightwork.com](mailto:team@moonlightwork.com), or [contribute directly on Github](https://github.com/moonlightwork/remote-work-encyclopedia).
+
+![The New Digital Economy](./assets/divider-illustrations/divider-0.png)
