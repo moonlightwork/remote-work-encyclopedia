@@ -39,6 +39,8 @@ $dark-3 = #3D3D4B;
 $dark-5 = #92929F;
 $font-xs = 0.625rem /* 10px */;
 
+
+
 .footer {
   background-color: $light-3;
   color: $dark-3;
@@ -51,5 +53,10 @@ $font-xs = 0.625rem /* 10px */;
   color: $dark-5;
   padding: 1rem;
   font-size: $font-xs;
+}
+
+.navbar .logo {
+  height: 1.4rem;
+  vertical-align: middle;
 }
 </style>
