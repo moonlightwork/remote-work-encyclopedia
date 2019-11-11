@@ -122,8 +122,8 @@ Resources for protecting your work:
 
 - [The Coalition](https://www.coalitioninc.com/origin)
 
-- [The Harford](https://www.thehartford.com/)
+- [The Hartford](https://www.thehartford.com/)
 
 - [Freelancer’s Union](https://www.freelancersunion.org/insurance/)
 
-![The New Digital Economy](./assets/divider-illustrations/divider-5.png)
+![Divider illustration - "Dress. Code."](./assets/divider-illustrations/divider-5.png)

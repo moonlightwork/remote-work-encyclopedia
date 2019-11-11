@@ -72,4 +72,4 @@ City guides to help you find remote-friendly work spots:
 
 - Sacramento (coming soon!)
 
-![The New Digital Economy](./assets/divider-illustrations/divider-9.png)
+![Divider illustration - "This is my office" coffee cup](./assets/divider-illustrations/divider-9.png)

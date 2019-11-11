@@ -60,4 +60,4 @@ We wrote up some simple talking points in case your investor asks about why youâ
 
 The next wave of startups will be remote, and it will become increasingly inefficient and irrational to geo-restrict hiring.
 
-![The New Digital Economy](./assets/divider-illustrations/divider-3.png)
+![Divider illustration - "Can you hear me?"](./assets/divider-illustrations/divider-3.png)

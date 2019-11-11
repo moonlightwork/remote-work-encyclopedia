@@ -40,4 +40,4 @@ Even traditional brick-and-mortar businesses need full technology teams now. Joh
 
 _**The next "Silicon Valley" is everywhere.**_
 
-![The New Digital Economy](./assets/divider-illustrations/divider-6.png)
+![Divider illustration - "hello world coffee cup"](./assets/divider-illustrations/divider-6.png)
