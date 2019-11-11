@@ -102,4 +102,4 @@ More resources on how and why to run a structured interview:
 
 - [https://www.lever.co/blog/a-step-by-step-guide-to-cultivating-diversity-and-inclusion-part-4-reducing-hiring-bias/](https://www.lever.co/blog/a-step-by-step-guide-to-cultivating-diversity-and-inclusion-part-4-reducing-hiring-bias/)
 
-![The New Digital Economy](./assets/divider-illustrations/divider-8.png)
+![Divider illustration - "Making cookies"](./assets/divider-illustrations/divider-8.png)

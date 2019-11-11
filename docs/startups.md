@@ -84,4 +84,4 @@ Today’s tech offices are designed for socializing, not productivity. Interrupt
 
 In the modern work environment, you do not need the whole team in the same room. Each person will have their own ideal path to productivity and focus. All you need is an organized plan, a defined process, and clear communication.
 
-![The New Digital Economy](./assets/divider-illustrations/divider-10.png)
+![Divider illustration - "Open for business"](./assets/divider-illustrations/divider-10.png)

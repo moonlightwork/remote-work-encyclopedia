@@ -106,4 +106,4 @@ When you don’t have that shared physical space of an office, it’s important 
 
 - Zoom - Dependable and cohesive video chat software.
 
-![The New Digital Economy](./assets/divider-illustrations/divider-13.png)
+![Divider illustration - "I woke up like this"](./assets/divider-illustrations/divider-13.png)

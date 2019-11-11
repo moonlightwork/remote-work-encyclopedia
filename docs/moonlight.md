@@ -44,4 +44,4 @@ This guide was brought to you by the Moonlight team and community of developers.
 
 - **Videos instead of meetings** - When events happen that don’t require a meeting, like a product handoff, or bug report - we use Loom videos. This screen recording software is a great way to communicate complicated ideas in a quick and effective way.
 
-![The New Digital Economy](./assets/divider-illustrations/divider-4.png)
+![Divider illustration - "Headphones - Do not disturb"](./assets/divider-illustrations/divider-4.png)

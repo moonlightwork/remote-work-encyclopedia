@@ -32,4 +32,4 @@ You may not have a full IT team for a while, but there are still some best pract
 
 - **Smart passwords**: Set up a password-sharing utility. We recommend 1Password Teams. Enforce two-step verification for everything. If you can, issue U2F keys. Credential stuffing attacks are the new norm, and have resulted in major hacks such as the [breach of Segment](https://segment.com/security/bulletins/incident090519/).
 
-![The New Digital Economy](./assets/divider-illustrations/divider-11.png)
+![Divider illustration - "Open Late"](./assets/divider-illustrations/divider-11.png)

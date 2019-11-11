@@ -132,4 +132,4 @@ Your network will compound over time, and is one of the most valuable tools as y
 
 - Soho Works
 
-![The New Digital Economy](./assets/divider-illustrations/divider-2.png)
+![Divider illustration - "These are my business pants"](./assets/divider-illustrations/divider-2.png)

@@ -132,4 +132,4 @@ Resources for property insurance:
 
 - [The Traveler’s Guide to Personal Property Insurance](https://www.internationalinsurance.com/news/personal-property.php)
 
-![The New Digital Economy](./assets/divider-illustrations/divider-1.png)
+![Divider illustration - "100% power"](./assets/divider-illustrations/divider-1.png)
