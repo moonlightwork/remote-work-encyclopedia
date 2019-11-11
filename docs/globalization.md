@@ -1,5 +1,5 @@
 ---
-title: The New Digital Economy
+title: The new digital economy
 ---
 
 ![The New Digital Economy](./assets/header-illustrations/1.png)
@@ -38,4 +38,6 @@ Google bought Waze for $1B in Israel. Walmart bought FlipKart for $16B in India.
 
 Even traditional brick-and-mortar businesses need full technology teams now. John Deere\*\* \*\*started hiring programmers. Walmart started using the blockchain. And, Domino’s Pizza started selling more pizza through its app than its storefronts.
 
-**_The next "Silicon Valley" is everywhere. _**
+_**The next "Silicon Valley" is everywhere.**_
+
+![The New Digital Economy](./assets/divider-illustrations/divider-6.png)
