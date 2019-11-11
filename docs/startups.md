@@ -83,3 +83,5 @@ If you search the internet for "best startup offices", you’ll see photos of op
 Today’s tech offices are designed for socializing, not productivity. Interruptions, meetings, and annoying shoulder taps segment the day into unproductive chunks of time. Knowledge workers need long periods of uninterrupted time to enter a flow state.
 
 In the modern work environment, you do not need the whole team in the same room. Each person will have their own ideal path to productivity and focus. All you need is an organized plan, a defined process, and clear communication.
+
+![The New Digital Economy](./assets/divider-illustrations/divider-10.png)

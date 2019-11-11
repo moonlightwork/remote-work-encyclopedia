@@ -16,7 +16,7 @@ When you hire developers for ongoing contract work or a contract-to-hire trial, 
 
 - **Insurance:** You can request third-party insurance. The norm for software developers is Professional Errors and Omissions. This insurance protects you in a variety of scenarios - ranging from the freelancer getting hacked and losing your customer information, to them writing code that has a major security vulnerability. Many major companies require this now, so it’s becoming more of an industry standard.
 
-- **Access to code: **Have all code under version control—through Github, GitLab, Bitbucket, or another service—so that all parties have the complete history of work. Maintain admin or owner rights to the repositories so that you can manage access as contractors ramp up and ramp down from the project. Clearly communicate to the contractor what they can and cannot do within the repository.
+- **Access to code:** Have all code under version control—through Github, GitLab, Bitbucket, or another service—so that all parties have the complete history of work. Maintain admin or owner rights to the repositories so that you can manage access as contractors ramp up and ramp down from the project. Clearly communicate to the contractor what they can and cannot do within the repository.
 
 - **Access to a cloud development environment:** Have a production-like environment where contractors can developer, deploy, and test their code before it is pushed to production.
 
@@ -31,3 +31,5 @@ You may not have a full IT team for a while, but there are still some best pract
 - **Encryption**: Set it up on all company devices. If you’re using Fleetsmith, then you can enforce Filevault.
 
 - **Smart passwords**: Set up a password-sharing utility. We recommend 1Password Teams. Enforce two-step verification for everything. If you can, issue U2F keys. Credential stuffing attacks are the new norm, and have resulted in major hacks such as the [breach of Segment](https://segment.com/security/bulletins/incident090519/).
+
+![The New Digital Economy](./assets/divider-illustrations/divider-11.png)
