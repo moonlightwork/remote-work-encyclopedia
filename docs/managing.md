@@ -12,11 +12,11 @@ Whether you work in an office or from Starbucks, being a manager is a hard job. 
 
 Especially when it comes to managing a remote team, your organization and communication skills need to be on-point. Some basic tenants of great remote leadership:
 
-- **Be organized. **Great leaders are organized, plan ahead, and over-communicate their ideas. They take the time to set goals for themselves and the people around them, and are clear in their vision of the future.
+- **Be organized.** Great leaders are organized, plan ahead, and over-communicate their ideas. They take the time to set goals for themselves and the people around them, and are clear in their vision of the future.
 
 - **Continuously connect.** You are managing a team of people, each with their own career aspirations and life goals. A remote team is only as good as the structure around it. Your job as a leader is to set the vision, provide guide rails, and make sure everyone is productive and feeling positive.
 
-- **Believe in the people you hire: **Trust is the foundation to any team, but for a remote team, it’s dire. If you are not sure what your employees are doing, you need to make a change to the way communication is done. Hire smart people to implement the plan. Create transparent and detailed task boards, schedule weekly 1:1s, and daily standup. By doing so, you and your team will be more productive.
+- **Believe in the people you hire:** Trust is the foundation to any team, but for a remote team, it’s dire. If you are not sure what your employees are doing, you need to make a change to the way communication is done. Hire smart people to implement the plan. Create transparent and detailed task boards, schedule weekly 1:1s, and daily standup. By doing so, you and your team will be more productive.
 
 - **You’re a boss so you need a schedule\*\***: \*\*Set a stable daily routine to create the structure of an office without the brick and mortar. Encourage your team to set their own schedule at generally the same time each day. As a leader, you can set up a weekly cadence with the events you put on the calendar.
 
@@ -105,3 +105,5 @@ When you don’t have that shared physical space of an office, it’s important 
 - World time buddy - Manage time zones.
 
 - Zoom - Dependable and cohesive video chat software.
+
+![The New Digital Economy](./assets/divider-illustrations/divider-13.png)

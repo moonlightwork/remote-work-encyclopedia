@@ -131,3 +131,5 @@ Resources for property insurance:
 - [11 Credit Card Insurance Benefits](https://www.creditcards.com/credit-card-news/card-travel-insurance-benefits-1273.php)
 
 - [The Traveler’s Guide to Personal Property Insurance](https://www.internationalinsurance.com/news/personal-property.php)
+
+![The New Digital Economy](./assets/divider-illustrations/divider-1.png)

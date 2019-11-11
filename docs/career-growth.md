@@ -131,3 +131,5 @@ Your network will compound over time, and is one of the most valuable tools as y
 - The Wing
 
 - Soho Works
+
+![The New Digital Economy](./assets/divider-illustrations/divider-2.png)

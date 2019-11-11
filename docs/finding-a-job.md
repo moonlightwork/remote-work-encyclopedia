@@ -61,3 +61,5 @@ Tenants of the remote interview:
 - **Emails**: Talking with the team via email (or any other kind of remote messaging tool) is a test in itself. As a remote worker (no matter your job title), written communication will be your primary collaboration interface. You should be proving your skills already by following up after calls, communicating clearly, and responding in a timely manner.
 
 - **Technical project**: Once you make it through the initial few screening conversations, you will likely be given a contract trial period or technical take-home project. This is your chance to prove your technical ability, daily communication style, and process. Even if they just ask you to complete a task, remember that it’s about the whole package - not just the end result. Even if it’s not requested, but sure to end the project with a presentation or video walk-through explaining your strategy and decisions.
+
+![The New Digital Economy](./assets/divider-illustrations/divider-7.png)

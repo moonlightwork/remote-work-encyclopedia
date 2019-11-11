@@ -125,3 +125,5 @@ Resources for protecting your work:
 - [The Harford](https://www.thehartford.com/)
 
 - [Freelancer’s Union](https://www.freelancersunion.org/insurance/)
+
+![The New Digital Economy](./assets/divider-illustrations/divider-5.png)
