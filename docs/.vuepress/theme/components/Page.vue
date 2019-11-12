@@ -34,29 +34,28 @@ export default {
 </script>
 
 <style lang="stylus">
-$light-3 = #F6F6F6;
-$dark-3 = #3D3D4B;
-$dark-5 = #92929F;
-$font-xs = 0.625rem /* 10px */;
+$light-3 = #F6F6F6
+$dark-3 = #3D3D4B
+$dark-5 = #92929F
+$font-xs = 0.625rem /* 10px */
 
+.footer
+  background-color $light-3
+  color $dark-3
+  font-size 0.875rem
+  padding 2rem
+  text-align center
 
+.copyright
+  color $dark-5
+  font-size $font-xs
+  padding 1rem
 
-.footer {
-  background-color: $light-3;
-  color: $dark-3;
-  padding: 2rem;
-  text-align: center;
-  font-size: 0.875rem;
-}
+.navbar .logo
+  height 2rem
+  vertical-align middle
 
-.copyright {
-  color: $dark-5;
-  padding: 1rem;
-  font-size: $font-xs;
-}
-
-.navbar .logo {
-  height: 1.4rem;
-  vertical-align: middle;
-}
+@media (min-width ($MQMobile + 1px))
+  .navbar .logo
+    height 1.4rem
 </style>
