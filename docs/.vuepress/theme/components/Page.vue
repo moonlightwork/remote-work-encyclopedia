@@ -9,6 +9,8 @@
 
     <slot name="bottom" />
 
+    <ConvertKit />
+
     <footer class="footer">
       <div>
         Make with ❤️ by
@@ -26,9 +28,10 @@
 <script>
 import PageEdit from "@parent-theme/components/PageEdit.vue";
 import PageNav from "@parent-theme/components/PageNav.vue";
+import ConvertKit from "./ConvertKit.vue";
 
 export default {
-  components: { PageEdit, PageNav },
+  components: { ConvertKit, PageEdit, PageNav },
   props: ["sidebarItems"]
 };
 </script>
