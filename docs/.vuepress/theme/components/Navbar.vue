@@ -27,12 +27,12 @@
         'max-width': linksWrapMaxWidth + 'px'
       } : {}"
     >
+      <NavLinks class="can-hide"/>
       <AlgoliaSearchBox
         v-if="isAlgoliaSearch"
         :options="algolia"
       />
       <SearchBox v-else-if="$site.themeConfig.search !== false && $page.frontmatter.search !== false"/>
-      <NavLinks class="can-hide"/>
     </div>
   </header>
 </template>
@@ -42,7 +42,7 @@
 import AlgoliaSearchBox from '@AlgoliaSearchBox'
 import SearchBox from '@SearchBox'
 import SidebarButton from '@parent-theme/components/SidebarButton.vue'
-import NavLinks from '@parent-theme/components/NavLinks.vue'
+import NavLinks from '@theme/components/NavLinks.vue'
 
 export default {
   components: {
@@ -139,6 +139,8 @@ $navbar-horizontal-padding = 1.5rem
     .search-box
       flex: 0 0 auto
       vertical-align top
+      margin-left 1rem
+      margin-right 0
 
 @media (max-width: $MQMobile)
   .navbar
