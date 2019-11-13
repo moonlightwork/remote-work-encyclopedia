@@ -32,6 +32,10 @@ This live interview should be with someone who would be on their team - like an 
 
 The best way to de-risk a hire is to actually work together on a real project. Define a real project, pay them hourly for their time, and work on something together. The end result should be a pull request (or something similar) so that you can see their communication style, level of polish, and problem solving ability. You can continue this contract project until you have made a clear yes or no decision. Hold weekly meetings with the candidate for as long as you are working together. (See The paid project section for more detail).
 
+<ClientOnly>
+  <Tweet id="1192228659685253120" :options="{ conversation: 'none' }" />
+</ClientOnly>
+
 ### The offer!
 
 Once you feel confident that you have found the right person for your team, set up a call. Give them the offer verbally, share how excited you are to have them join the team, and ask them if they have any concerns. Send over the offer paperwork via HelloSign or DocuSign, for your future employee to sign!
