@@ -1,9 +1,20 @@
 <template>
   <div>
     <script src="https://f.convertkit.com/ckjs/ck.5.js"></script>
-    <form action="https://app.convertkit.com/forms/1110975/subscriptions" style="background-color: rgb(255, 255, 255); border-radius: 6px;" class="seva-form formkit-form" method="post" data-sv-form="1110975" data-uid="c028204cbf" data-format="modal" data-version="5" data-options="{&quot;settings&quot;:{&quot;after_subscribe&quot;:{&quot;action&quot;:&quot;message&quot;,&quot;success_message&quot;:null,&quot;redirect_url&quot;:&quot;&quot;},&quot;analytics&quot;:{&quot;google&quot;:null,&quot;facebook&quot;:null,&quot;segment&quot;:null,&quot;pinterest&quot;:null},&quot;modal&quot;:{&quot;trigger&quot;:null,&quot;scroll_percentage&quot;:null,&quot;timer&quot;:null,&quot;devices&quot;:null,&quot;show_once_every&quot;:null},&quot;recaptcha&quot;:{&quot;enabled&quot;:false},&quot;return_visitor&quot;:{&quot;action&quot;:&quot;show&quot;,&quot;custom_content&quot;:null},&quot;slide_in&quot;:{&quot;display_in&quot;:null,&quot;trigger&quot;:null,&quot;scroll_percentage&quot;:null,&quot;timer&quot;:null,&quot;devices&quot;:null,&quot;show_once_every&quot;:null},&quot;sticky_bar&quot;:{&quot;display_in&quot;:null,&quot;trigger&quot;:null,&quot;scroll_percentage&quot;:null,&quot;timer&quot;:null,&quot;devices&quot;:null,&quot;show_once_every&quot;:null}},&quot;version&quot;:5}" min-width="400 500 600 700 800">
+    <form
+      action="https://app.convertkit.com/forms/1110975/subscriptions"
+      class="seva-form formkit-form"
+      data-format=""
+      data-options="{&quot;settings&quot;:{&quot;after_subscribe&quot;:{&quot;action&quot;:&quot;message&quot;,&quot;success_message&quot;:null,&quot;redirect_url&quot;:&quot;&quot;},&quot;analytics&quot;:{&quot;google&quot;:null,&quot;facebook&quot;:null,&quot;segment&quot;:null,&quot;pinterest&quot;:null},&quot;modal&quot;:{&quot;trigger&quot;:null,&quot;scroll_percentage&quot;:null,&quot;timer&quot;:null,&quot;devices&quot;:null,&quot;show_once_every&quot;:null},&quot;recaptcha&quot;:{&quot;enabled&quot;:false},&quot;return_visitor&quot;:{&quot;action&quot;:&quot;show&quot;,&quot;custom_content&quot;:null},&quot;slide_in&quot;:{&quot;display_in&quot;:null,&quot;trigger&quot;:null,&quot;scroll_percentage&quot;:null,&quot;timer&quot;:null,&quot;devices&quot;:null,&quot;show_once_every&quot;:null},&quot;sticky_bar&quot;:{&quot;display_in&quot;:null,&quot;trigger&quot;:null,&quot;scroll_percentage&quot;:null,&quot;timer&quot;:null,&quot;devices&quot;:null,&quot;show_once_every&quot;:null}},&quot;version&quot;:5}"
+      data-sv-form="1110975"
+      data-uid="c028204cbf"
+      data-version="5"
+      method="post"
+      min-width="400 500 600 700 800"
+      style="background-color: rgb(255, 255, 255); border-radius: 6px;"
+    >
     <div data-style="full">
-      <div style="background-color: rgb(249, 250, 251);" data-element="column" class="formkit-column">
+      <div data-element="column" class="formkit-column">
         <div style="opacity: 0.3;" class="formkit-background"></div>
         <div class="formkit-header" style="color: rgb(77, 77, 77); font-size: 20px; font-weight: 700;" data-element="header">
           <h1>Sign up for our free <br>3-week Remote Work course!</h1>
@@ -371,7 +382,6 @@ export default {
     }
 }
  .formkit-form[data-uid="c028204cbf"]{
-    box-shadow:0 2px 15px 0 rgba(210,214,220,0.5);
     max-width:700px;
     overflow:hidden;
 }
