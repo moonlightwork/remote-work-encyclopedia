@@ -900,6 +900,13 @@
   dependencies:
     nprogress "^0.2.0"
 
+"@vuepress/plugin-register-components@^1.0.0-rc.1":
+  version "1.0.0-rc.1"
+  resolved "https://registry.yarnpkg.com/@vuepress/plugin-register-components/-/plugin-register-components-1.0.0-rc.1.tgz#71a50e5d806ccbfb453bc723ceef7158df8c4165"
+  integrity sha512-4GsKVjcQCAgX5z53Z/njFK7GSv6bCwyw7zqRgecmJYVePYjnNvzZdPbON9nZlIR0qcl1pMWIhSpzw2cSopYE0g==
+  dependencies:
+    "@vuepress/shared-utils" "^1.0.0-rc.1"
+
 "@vuepress/plugin-register-components@^1.2.0":
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/@vuepress/plugin-register-components/-/plugin-register-components-1.2.0.tgz#95aa0e0af94b2758b26ab98814c43b0f7bcd502b"
@@ -912,7 +919,7 @@
   resolved "https://registry.yarnpkg.com/@vuepress/plugin-search/-/plugin-search-1.2.0.tgz#0b27c467b7fd42bd4d9e32de0fe2fb81a24bd311"
   integrity sha512-QU3JfnMfImDAArbJOVH1q1iCDE5QrT99GLpNGo6KQYZWqY1TWAbgyf8C2hQdaI03co1lkU2Wn/iqzHJ5WHlueg==
 
-"@vuepress/shared-utils@^1.2.0":
+"@vuepress/shared-utils@^1.0.0-rc.1", "@vuepress/shared-utils@^1.2.0":
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/@vuepress/shared-utils/-/shared-utils-1.2.0.tgz#8d9ab40c24f75f027ef32c2ad0169f0f08e949fa"
   integrity sha512-wo5Ng2/xzsmIYCzvWxgLFlDBp7FkmJp2shAkbSurLNAh1vixhs0+LyDxsk01+m34ktJSp9rTUUsm6khw/Fvo0w==
@@ -7328,6 +7335,11 @@ vue-template-es2015-compiler@^1.9.0:
   version "1.9.1"
   resolved "https://registry.yarnpkg.com/vue-template-es2015-compiler/-/vue-template-es2015-compiler-1.9.1.tgz#1ee3bc9a16ecbf5118be334bb15f9c46f82f5825"
   integrity sha512-4gDntzrifFnCEvyoO8PqyJDmguXgVPxKiIxrBKjIowvL9l+N66196+72XVYR8BBf1Uv1Fgt3bGevJ+sEmxfZzw==
+
+vue-tweet-embed@^2.4.0:
+  version "2.4.0"
+  resolved "https://registry.yarnpkg.com/vue-tweet-embed/-/vue-tweet-embed-2.4.0.tgz#8707efd49b519fd2201200ea1ba68881c35d886d"
+  integrity sha512-bjViatv0priR1dTEPJpRyWigWGUTUC28VT/sWTaZE+RBWuj/XZvOU5Hzk+O8Mue2dBCAHJrRpoO1VKlcgmHohg==
 
 vue@^2.6.10:
   version "2.6.10"
