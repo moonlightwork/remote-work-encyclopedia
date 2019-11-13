@@ -68,5 +68,5 @@ export default {
 
 @media (min-width: ($MQMobile))
   .nav-dropdown.dropdown
-    width 30rem
+    width 700px
 </style>
