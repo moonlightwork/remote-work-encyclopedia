@@ -28,7 +28,7 @@ For a fully remote team, asynchronous communication is key. Each team member nee
 
 Mix-and-match, and make it a routine:
 
-- **Written documentation**: You can’t (and shouldn’t) just tap people on the shoulder each time you need help. Give all team members the resources they need to succeed by writing down common practices. Day-to-day functions of the company should be written up in an easy-to-read format, and organized in the right place for people to access. Use something like Google Drive, Notion, or Evernote for wiki software.
+- **Written documentation**: You can’t (and shouldn’t) just tap people on the shoulder each time you need help. Give all team members the resources they need to succeed by writing down common practices. Day-to-day functions of the company should be written up in an easy-to-read format, and organized in the right place for people to access. Use something like Google Drive, Notion, or Evernote for wiki software. The [Gitlab Handbook](https://about.gitlab.com/handbook/) is openly available and an amazing resource, and other companies are opening their company handbooks - such as the [Sourcegraph Handbook](https://about.sourcegraph.com/handbook).
 
 - **Synchronous conversations**: Tools like Slack imitate live conversations where people are in the same room. Use synchronous chat this when you need a quick answer or a fast back-and-forth. Just remember that your ideas may get lost in the hustle - these tools enable short-term collaboration, not long-term storage.
 
