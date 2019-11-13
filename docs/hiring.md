@@ -32,6 +32,10 @@ This live interview should be with someone who would be on their team - like an 
 
 The best way to de-risk a hire is to actually work together on a real project. Define a real project, pay them hourly for their time, and work on something together. The end result should be a pull request (or something similar) so that you can see their communication style, level of polish, and problem solving ability. You can continue this contract project until you have made a clear yes or no decision. Hold weekly meetings with the candidate for as long as you are working together. (See The paid project section for more detail).
 
+<ClientOnly>
+  <Tweet id="1192228659685253120" :options="{ conversation: 'none' }" />
+</ClientOnly>
+
 ### The offer!
 
 Once you feel confident that you have found the right person for your team, set up a call. Give them the offer verbally, share how excited you are to have them join the team, and ask them if they have any concerns. Send over the offer paperwork via HelloSign or DocuSign, for your future employee to sign!
@@ -44,15 +48,15 @@ As a remote team - you need to be testing for independence, technical ability, a
 
 Here’s how to set up your paid projects:
 
-    1. **Define contained tasks:** Write up defined "contractor-ready" tasks. These tasks should be real problems you want to solve in your code base, that don’t require a complex understanding of the entire system. Examples would be making changes to permissions, changing the timing for system onboarding emails, or making updates to the input field error interface.
+1. **Define contained tasks:** Write up defined "contractor-ready" tasks. These tasks should be real problems you want to solve in your code base, that don’t require a complex understanding of the entire system. Examples would be making changes to permissions, changing the timing for system onboarding emails, or making updates to the input field error interface.
 
-    2. **Assign a task**: After signing a contract with the developer, assign them to a task (this could be with limited permissions on an actual task board, or via email/slack). Make sure they have access to any tools, code, or resources they need to get started.
+2. **Assign a task**: After signing a contract with the developer, assign them to a task (this could be with limited permissions on an actual task board, or via email/slack). Make sure they have access to any tools, code, or resources they need to get started.
 
-    3. **Work and collaborate:** This is a test of communication and working style, just as much as it’s a test of technical ability. Work together throughout the week and try to integrate them onto the team with daily practices like check-ins, team Slack, and weekly 1:1s. This contract-to-hire process can last as long as you need to get to a "yes" or “no.”
+3. **Work and collaborate:** This is a test of communication and working style, just as much as it’s a test of technical ability. Work together throughout the week and try to integrate them onto the team with daily practices like check-ins, team Slack, and weekly 1:1s. This contract-to-hire process can last as long as you need to get to a "yes" or “no.”
 
-    4. **Pay candidates for their time**: Pay the developer for hours worked, whether you end up hiring them or not. Paid work will give you a more realistic and transparent view into what kind of work they do. It’s also a great way to attract talented people!
+4. **Pay candidates for their time**: Pay the developer for hours worked, whether you end up hiring them or not. Paid work will give you a more realistic and transparent view into what kind of work they do. It’s also a great way to attract talented people!
 
-    5. **Task completion**: Have the contractor pass off code or designs once the task is complete. This should come in the form of a pull request or something similar so that you can also see how they collaborate and write documentation.
+5. **Task completion**: Have the contractor pass off code or designs once the task is complete. This should come in the form of a pull request or something similar so that you can also see how they collaborate and write documentation.
 
 ## Diversity and Inclusion
 

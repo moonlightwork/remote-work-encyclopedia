@@ -78,7 +78,9 @@ Resources for seed funding:
 
 If you search the internet for "best startup offices", you’ll see photos of open office plans, ping pong tables, and in-office cafeterias. All things that have nothing to do with getting the work done. Workers get packed into farms of desks that look like factories. Tiny conference rooms and call booths can [result in carbon monoxide poisoning](https://www.nytimes.com/2019/05/06/health/conference-room-air.html) or [formaldehyde poisoning](https://techcrunch.com/2019/10/14/wework-pulls-thousands-of-phone-booths-out-of-service-over-formaldehyde-scare/). Not cool!
 
-> EMBED [https://twitter.com/fmanjoo/status/1175156149047312384?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1175156149047312384&ref_url=https%3A%2F%2Fwww.nytimes.com%2F2019%2F09%2F25%2Fopinion%2Fwework-adam-neumann.html](https://twitter.com/fmanjoo/status/1175156149047312384?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1175156149047312384&ref_url=https%3A%2F%2Fwww.nytimes.com%2F2019%2F09%2F25%2Fopinion%2Fwework-adam-neumann.html)
+<ClientOnly>
+  <Tweet id="1175156149047312384" />
+</ClientOnly>
 
 Today’s tech offices are designed for socializing, not productivity. Interruptions, meetings, and annoying shoulder taps segment the day into unproductive chunks of time. Knowledge workers need long periods of uninterrupted time to enter a flow state.
 
