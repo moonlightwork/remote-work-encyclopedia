@@ -32,11 +32,11 @@
     </a>
 
     <!-- newsletter dropdown -->
-    <div class="nav-item">
+    <!-- <div class="nav-item">
       <Dropdown trigger-label="Newsletter">
         <ConvertKit />
       </Dropdown>
-    </div>
+    </div> -->
   </nav>
 </template>
 
