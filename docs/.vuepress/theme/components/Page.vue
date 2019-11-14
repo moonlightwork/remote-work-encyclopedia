@@ -11,7 +11,7 @@
       class="table-of-content"
       :class="hideTableOfContent"
     >
-      <h3 class="title">Table of Content</h3>
+      <h3 class="title">Table of contents</h3>
       <Sidebar class="intro-sidebar" :items="sidebarItems" />
     </div>
 
