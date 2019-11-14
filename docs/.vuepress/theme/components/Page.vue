@@ -42,7 +42,7 @@ export default {
 
   computed: {
     hideTableOfContents() {
-      return this.$route.path === '/' ? false : true; 
+      return this.$route.name === 'v-d967ece0' ? false : true; 
     }
   },
 };
