@@ -7,7 +7,10 @@
 
     <PageNav v-bind="{ sidebarItems }" />
 
-    <div class="table-of-content" :class="{ 'hidden': hideTableOfContents }">
+    <div
+      class="table-of-content"
+      :class="{ 'hidden': isActive($route, '/') }"
+    >
       <h3 class="title">Table of Content</h3>
       <Sidebar class="intro-sidebar" :items="sidebarItems" />
     </div>
@@ -29,9 +32,12 @@
 </template>
 
 <script>
+import { isActive } from '@parent-theme/util';
 import PageEdit from "@parent-theme/components/PageEdit.vue";
 import PageNav from "@parent-theme/components/PageNav.vue";
 import Sidebar from "@parent-theme/components/Sidebar.vue";
+
+console.log('--- active', isActive(this.$route, '/'), this.$route);
 
 export default {
   name: 'Page',
@@ -39,13 +45,6 @@ export default {
   components: { PageEdit, PageNav, Sidebar },
 
   props: ["sidebarItems"],
-
-  computed: {
-    hideTableOfContents() {
-      console.log('--- route name check', this.$route.name === 'v-d967ece0');
-      return this.$route.name === 'v-d967ece0' ? false : true; 
-    }
-  },
 };
 </script>
 
