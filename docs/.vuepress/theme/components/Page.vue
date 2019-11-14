@@ -9,7 +9,7 @@
 
     <div class="table-of-content" :class="{ 'hidden': hideTableOfContents }">
       <h3 class="title">Table of Content</h3>
-      <Sidebar class="intro-sidebar" :items="sidebarItems"></Sidebar>
+      <Sidebar class="intro-sidebar" :items="sidebarItems" />
     </div>
 
     <slot name="bottom" />
@@ -42,6 +42,7 @@ export default {
 
   computed: {
     hideTableOfContents() {
+      console.log('--- route name check', this.$route.name === 'v-d967ece0');
       return this.$route.name === 'v-d967ece0' ? false : true; 
     }
   },
@@ -67,7 +68,7 @@ $font-xs = 0.625rem /* 10px */
   .table-of-content
     display none
 
-.intro-sidebar
+.intro-sidebar.sidebar
   background-color #fff
   background-color transparent
   border-right none
@@ -91,7 +92,7 @@ $font-xs = 0.625rem /* 10px */
 
 
 @media (max-width: $MQMobile)
-  .intro-sidebar
+  .intro-sidebar.sidebar
     transform initial
 
 .footer
