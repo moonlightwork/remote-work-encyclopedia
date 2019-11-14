@@ -9,7 +9,7 @@
 
     <div
       class="table-of-content"
-      :class="{ 'hidden': isActive($route, '/') }"
+      :class="hideTableOfContent"
     >
       <h3 class="title">Table of Content</h3>
       <Sidebar class="intro-sidebar" :items="sidebarItems" />
@@ -37,14 +37,18 @@ import PageEdit from "@parent-theme/components/PageEdit.vue";
 import PageNav from "@parent-theme/components/PageNav.vue";
 import Sidebar from "@parent-theme/components/Sidebar.vue";
 
-console.log('--- active', isActive(this.$route, '/'), this.$route);
-
 export default {
   name: 'Page',
 
   components: { PageEdit, PageNav, Sidebar },
 
   props: ["sidebarItems"],
+
+  computed: {
+    hideTableOfContent() {
+      return { 'hidden': !isActive(this.$route, '/') }; 
+    }
+  },
 };
 </script>
 
