@@ -20,24 +20,24 @@ The internet allowed people to start building businesses from anywhere. A physic
 
 Companies like Google and Facebook greatly increased the spread of information. Airbnb, Uber, and SkyScanner made it easier for people to move around. Zoom, Slack, and Github made it possible to work from anywhere.
 
-While the tech giants can offer free lunches, top salaries, and amazing benefits, there’s something they don’t offer: flexibility and independence. When information can be accessed from anywhere in the world in seconds, workers no longer need to be sitting next to each other in Mountain View.
+While the tech giants could offer free lunches, top salaries, and amazing benefits, there’s something they couldn't offer: flexibility and independence. Once information could be accessed from anywhere in the world in seconds, workers no longer needed to be sitting next to each other in Mountain View.
 
-Companies like GitLab, Digital Ocean, Kong, Sourcegraph, and Stripe have realized that remote work gives them a recruiting advantage over the incumbents. Seeing their success, other companies have started to change their structure to keep up. Either they get on-board with remote work or risk losing out on a major cultural shift.
+Companies like [GitLab](https://about.gitlab.com/), [Digital Ocean](https://www.digitalocean.com/), [Kong](https://konghq.com/), [Sourcegraph](https://about.sourcegraph.com/), and [Stripe](https://stripe.com/en-it) have realized that remote work gives them a recruiting advantage over the incumbents. Seeing their success, other companies have started to change their structure to keep up. Either they get on-board with remote work or risk losing out on a major cultural shift.
 
 Just as the shipping container changed manufacturing, "remote" is globalizing knowledge work.
 
 ## The Silicon Valley gold rush is ending
 
-It’s no secret that the Bay Area is getting more expensive by the day. Companies resort to overpriced open offices that are bad for productivity. Engineers with high incomes are living in tiny apartments with roommates (or, in a bunk bed). Those who are not on tech salaries cannot even afford to live. Diversity is decreasing in every way, and there’s no more room for creativity or innovation.
+It’s no secret that the Bay Area is getting more expensive by the day. Companies resort to overpriced open offices that are bad for productivity. Engineers with high incomes are living in tiny apartments with roommates (or, in a bunk bed). Those who are not on tech salaries cannot even afford to live. Diversity is decreasing in every way, and there’s little room for creativity or innovation.
 
-For new entrepreneurs and technologists, Silicon Valley is no longer the place to get started. The cost is too high, the local talent is tied up in golden handcuffs, and unfriendly immigration policies and living costs make it hard to move new people in.
+For new entrepreneurs and technologists, Silicon Valley is no longer the best place to get started. The cost is too high, the local talent is tied up in golden handcuffs, and unfriendly immigration policies and living costs make it hard to move new people in.
 
-Companies no longer need to be in Silicon Valley to become a billion dollar company. With large-scale companies popping up around the world, the latest gold rush to San Francisco is coming to an end.
+Companies don't need to be in Silicon Valley to become a billion dollar company anymore. With large-scale companies popping up around the world, the latest gold rush to San Francisco is coming to an end.
 
-Google bought Waze for $1B in Israel. Walmart bought FlipKart for $16B in India. Clip raised \$100M in Mexico. These startups found success in hiring and scaling-- all over the world.
+Google bought [Waze](https://www.waze.com/) for [$1.1B](https://techcrunch.com/2013/06/11/its-official-google-buys-waze-giving-a-social-data-boost-to-its-location-and-mapping-business/) in Israel. Walmart bought [FlipKart](https://www.flipkart.com/) for [$16B](https://techcrunch.com/2018/08/20/walmart-flipkart-deal-done/) in India. [Clip](https://clip.mx/) raised [\$100M](https://www.crunchbase.com/organization/payclip#section-overview) in Mexico. These startups found success in hiring and scaling-- all over the world.
 
-Even traditional brick-and-mortar businesses need full technology teams now. John Deere\*\* \*\*started hiring programmers. Walmart started using the blockchain. And, Domino’s Pizza started selling more pizza through its app than its storefronts.
+Even traditional brick-and-mortar businesses need full technology teams now. John Deere started hiring [machine learning engineers](https://www.enterpriseai.news/2019/10/15/john-deere-uses-machine-learning-to-help-fewer-farmers-do-more-with-less/). Walmart started using the [blockchain](https://corporate.walmart.com/tech). And, Domino’s Pizza started selling more pizza [through their digital platforms](https://www.latimes.com/business/la-fi-agenda-dominos-20170515-story.html) than storefronts.
 
-_**The next "Silicon Valley" is everywhere.**_
+**The next _"Silicon Valley"_ is everywhere.**
 
 ![Divider illustration - "hello world coffee cup"](./assets/divider-illustrations/divider-6.png)

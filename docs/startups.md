@@ -8,6 +8,15 @@ title: Build your remote startup
 
 Starting a company with a remote-first mindset is a great way to succeed in today’s landscape. The price, access to talent, and flexibility are huge advantages. But, there are still challenges that are unique to being outside of Silicon Valley.
 
+## The proof: successful remote teams
+Don't just trust us! It's becoming more common by the day for companies to start their companies remotely. Whether it's out of necesity or preference, these teams are defining the future of work. 
+
+- [How Doist Makes Remote Work Happen:](https://doist.com/blog/how-doist-works-remote/) 68 people in 25 countries building a product used by millions. We believe that one day soon this way of working will be the norm.
+- more
+- more
+- more
+- more
+
 ## Meet people and talk to your users
 
 It’s hard and slow to launch a startup. No matter where you are located, you will need a support network of founders, investors, and talent. Join a co-working space, partake in online forums, and go to in-person events to get connected.
@@ -87,3 +96,4 @@ Today’s tech offices are designed for socializing, not productivity. Interrupt
 In the modern work environment, you do not need the whole team in the same room. Each person will have their own ideal path to productivity and focus. All you need is an organized plan, a defined process, and clear communication.
 
 ![Divider illustration - "Open for business"](./assets/divider-illustrations/divider-10.png)
+

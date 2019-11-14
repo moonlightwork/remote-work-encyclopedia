@@ -8,33 +8,47 @@ title: Remote is here to stay
 
 The resistance to remote has roots in the very place where innovative work culture began. Technology and investment leaders in Silicon Valley found initial success by hosting a lot of young, smart, scrappy people in a shared office for long periods of time. Those very companies invented the tools that make remote work possible.
 
-### The remote spectrum: every company is already remote
+### Every company is remote
 
-Hint: If your company uses email, hosts meetings over video calls, or has shared wiki software - you’re already remote!
+If your company uses email, hosts meetings over video calls, or has shared wiki software - your team is already remote! It's just a spectrum of how remote-friendly your company is willing to be. 
 
-1. **Outsourced remote**: A company that works with remote contractors or agencies but not full-time. Companies like Headspace give you the option to WFH some days.
-2. **Distributed offices**: A company that has multiple offices and headquarters. Google and Facebook charge these examples.
-3. **Remote-first:** Companies support some remote workers, primarily in one country. They likely have an office in at least one main location.
-4. **Fully remote**: A company has international employees who are remote most of the time. They get together for group offsite meetings a few times per year.
-5. **Global distributed workforce:** Employees are working from **anywhere at any time**. They would rarely (if ever) need to bring the whole company together in the same physical space.
+**Outsourced remote:** A team that works with remote contractors or agencies, but employees are in a shared office. They may have a "WFH" policy. <br>_Example: [Headspace](https://www.headspace.com/join-us)_. 
+
+**Distributed offices:** A company that has multiple offices and headquarters. <br>_Example: [Google](https://careers.google.com/locations/)_.
+
+**Remote-first:** Organizations that support some remote workers, primarily in one country. They likely have an office in at least one location. <br>_Example: [Digital Ocean](https://www.digitalocean.com/careers/)_.
+
+**Fully remote:** A company that has employees who are remote most of the time. They get together for group offsite meetings a few times per year. <br>_Example: [Invision](https://www.invisionapp.com/about)_.
+
+**Global distributed workforce:** Employees are working from anywhere at any time. They would rarely (if ever) need to bring the whole company together in the same physical space. <br>_Example: [GitLab](https://about.gitlab.com/jobs/faq/)_.
 
 ## Who are remote workers?
 
-Making the switch to remote takes a transition period. You have to learn how to be a better communicator, more organized, and do more to build your own social community. Early adopters to the remote movement were often introverts and highly specialized knowledge workers. But modern tools and cultural shifts are making it possible for anyone to take part in this new flexible lifestyle.
+Making the switch to remote requires  a transition period. People must learn to be better communicators, work in a more organized way, and do more to build a social community. Early adopters to the remote movement were stereotypically introverted, highly specialized knowledge workers. 
 
-### Introverts and extroverts
+But, modern tools and cultural shifts are making it possible for anyone to take part in this new flexible lifestyle.
 
-It’s a common misconception that working remotely is only good for introverts. On the Moonlight team, we have a mix of self-described "super extroverts," introverts, and people in-between. You _can_ have a ton of social time as a remote worker, with the added benefit of choosing where and when you work.
+#### It's not just the gig economy
 
-### More than just the gig economy
-
-When companies first started experimenting with remote work, it was often in the form of outsourced projects. When a loosely-defined project accepts the lowest bid - you end up in revision hell with the cheapest possible implementation.
+When companies first started experimenting with remote work, it was often in the form of outsourced projects. When loosely-defined projects accept the lowest bid - teams end up in revision hell with the cheapest possible implementation.
 
 Now it’s possible to find the best possible talent, anywhere in the world. You get to work with them directly as an ongoing member of your team. This can manifest in a variety of ways - full-time employment, ongoing contract work, project-based milestones, or even technical mentorship. Hiring remotely is just another way to build a fantastic and scalable team.
 
-### It’s not "work from home"
+_Read about [all-remote hiring](https://about.gitlab.com/company/culture/all-remote/hiring/) from the fully remote team at Gitlab._
 
-Yes, some remote workers choose to work from home. But remote can also mean working from a dedicated office in your local city, or a shared co-working or community space. The environment should be set up for productivity, with all the same things you would get in a traditional startup office.
+#### Introverts and extroverts
+
+It’s a common misconception that working remotely is only good for introverts. On the Moonlight team, we have a mix of self-described "super extroverts," introverts, and people in-between. You _can_ have a ton of social time as a remote worker, with the added benefit of choosing where and when you work.
+
+_Read about [working remotely for extroverts](https://stephyiu.com/2014/12/13/working-remotely-for-extroverts/) from Steph Yiu at Automattic._
+
+#### It’s not "work from home"
+
+Yes, some remote workers choose to work from home. But remote can also mean working from a dedicated office in your local city, a co-working space, or a mix of a few different options throughout the week. 
+
+When you're always working remotely, it requires a different kind of support system. Companies should still be providing the resources to create a productive and sustainable work environment for each individual.
+
+_Read about [supporting remote workers](https://blog.digitalocean.com/how-we-support-remote-employees-at-digitalocean/) at Digital Ocean_
 
 ## The competitive advantage of remote
 
