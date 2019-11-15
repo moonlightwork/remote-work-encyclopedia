@@ -52,25 +52,39 @@ _Read about [supporting remote workers](https://blog.digitalocean.com/how-we-sup
 
 ## The competitive advantage of remote
 
-When GitLab started their company, "remote" was a new concept. Investors turned down the company because it had no office. Two Sigma Ventures partner Villi Iltchev\*\* \*\*shared one of the first conversations he had with their CEO & Partner, Sid Sijbrandij:
+When GitLab started their company, "remote" was a new concept. Investors turned down the company because it had no office. Two Sigma Ventures partner Villi Iltchev shared one of the first conversations he had with their CEO & Partner, Sid Sijbrandij:
 
-EMBED [https://twitter.com/villi/status/1169316189434257413](https://twitter.com/villi/status/1169316189434257413)
+<ClientOnly>
+  <Tweet id="1169316189434257413" :options="{ conversation: 'none' }" />
+</ClientOnly>
 
-As they have scaled to over 1000 employees the team turned "remote" from a _liability_ into an* asset*. Since their talent pool is so widespread, they have diverse perspectives and geographical coverage. And, they have spent less money directly on real estate.
+As they have scaled to over 1000 employees the team turned "remote" from a _liability_ into an **asset**. Since their talent pool is so widespread, they have diverse perspectives and geographical coverage. And, they have spent less money directly on real estate.
+
+<ClientOnly>
+  <Tweet id="1162059775284273153" :options="{ conversation: 'none' }" />
+</ClientOnly>
 
 Stripe, InVision, and Digital Ocean are more examples of startups who are scaling remote teams and succeeding. More and more companies are following suit (and following the talent).
 
+<ClientOnly>
+  <Tweet id="497432489195880448" :options="{ conversation: 'none' }" />
+</ClientOnly>
+
 We wrote up some simple talking points in case your investor asks about why you’re building a remote team:
 
-- **Top talent:** If you can hire from anywhere, you can hire the best employees - wherever they are. Kong used this to find the top contributors to the Lua\*\* \*\*programming language, many of whom were living outside the U.S.
+- **Top talent:** If you can hire from anywhere, you can hire the best employees - wherever they are. [Kong](https://konghq.com/) used this to find the top contributors to the Lua programming language, many of whom were living outside the U.S.
 
 - **Diverse perspectives:** Not every person can relocate to San Francisco. Some may have families, student loans, or other realities that make the high cost of living impossible. Others may not have work rights in the USA, or cannot physically commute.
 
-- **Faster hires:** For remote teams, hiring often becomes more demand-constrained than supply-constrained. We heard from one unicorn-size startup that opening a "remote" office radically switched their hiring approach from being proactive to reactive.
+- **Faster hires:** For remote teams, hiring often becomes more demand-constrained than supply-constrained. Opening a "remote" office can radically switch the hiring approach from being proactive to reactive at large companies like Stripe.
 
 - **Increased productivity:** Commutes waste time, and offices are designed for control - not productivity. Remote workers have fewer interruptions, resulting in more deep work - and better results for the business.
 
 - **Lower average costs:** If employees have to pay \$3k/mo for a studio apartment, then they need higher salaries. By hiring people outside of major cities, employees can have a higher standard of living on less salary.
+
+<ClientOnly>
+  <Tweet id="1193163638548422656" :options="{ conversation: 'none' }" />
+</ClientOnly>
 
 The next wave of startups will be remote, and it will become increasingly inefficient and irrational to geo-restrict hiring.
 
