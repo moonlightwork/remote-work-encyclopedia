@@ -10,6 +10,7 @@
     <slot name="bottom" />
 
     <footer class="footer">
+      <ConvertKit class="subscribe-container" />
       <div>
         Make with ❤️ by
         <a
@@ -26,9 +27,10 @@
 <script>
 import PageEdit from "@parent-theme/components/PageEdit.vue";
 import PageNav from "@parent-theme/components/PageNav.vue";
+import ConvertKit from '@theme/components/ConvertKit.vue';
 
 export default {
-  components: { PageEdit, PageNav },
+  components: { ConvertKit, PageEdit, PageNav },
   props: ["sidebarItems"]
 };
 </script>
@@ -45,6 +47,12 @@ $font-xs = 0.625rem /* 10px */
   font-size 0.875rem
   padding 2rem
   text-align center
+  display flex
+  flex-direction column
+  align-items center
+
+.subscribe-container
+  margin-bottom 2.5rem
 
 .copyright
   color $dark-5
