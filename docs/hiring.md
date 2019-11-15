@@ -8,6 +8,10 @@ title: Hire a great team
 
 Hiring remotely requires a new way of thinking in many ways, including your interview process. It de-risks your hiring decisions and helps you identify the best people on the market (or even off the market!)
 
+<ClientOnly>
+  <Tweet id="1191942486660435969" :options="{ conversation: 'none' }" />
+</ClientOnly>
+
 ## The remote interview process
 
 The biggest change is that you’re not interviewing to meet someone you can sit next to in an office for hours on end. You are vetting someone to make sure they have the expertise you need, a vision of the future that maps to the role you are hiring for, and that they are a good communicator.
