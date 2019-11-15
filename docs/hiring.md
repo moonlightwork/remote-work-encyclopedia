@@ -112,7 +112,7 @@ Get started with a few online communities:
 
 - [AfroTech](https://afrotech.com/): The groundbreaking, revolutionary experience for Black techies, startups, and entrepreneurs.
 
-- [#BlackTechPipeline](https://blacktechpipeline.substack.com/welcome): All things Black and in tech.
+- [#BlackTechPipeline](https://blacktechpipeline.substack.com/welcome): Ahashtag and movement bringing awareness and exposure to the Black community in the technology industry.
 
 - [Blacks in technology](http://www.blacksintechnology.net/): Blacks In Technology is a global platform for black women and men in technology.
 
