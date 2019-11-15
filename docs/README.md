@@ -20,13 +20,13 @@ Silicon Valley was becoming more overpriced and homogenous, so they decided to s
 
 Living off of street tacos, they were still able to freelance for Silicon Valley companies to pay the bills. They loved the flexibility to work where they wanted and set their own schedules.
 
-As Philip and Emma spent two years traveling, they met fellow developers in the local tech scene, they wondered why they had easier access to quality work than the people they were meeting. The answer was that they knew people in the Silicon Valley startup scene. This gave them a broad network of funded startups to sell their experience.
+Philip and Emma spent two years traveling and working. They met developers in each city, and wondered why they had easier access to quality work than the people they were meeting. The answer was that they knew people in the Silicon Valley startup scene. This gave them a broad network of funded startups to sell their experience.
 
 Platforms like LinkedIn didn’t make it easy to build a new network - just to leverage existing ones. And, bad experiences with outsourcing made many startup founders hesitant to work with people they couldn’t monitor in-person.
 
 Factoring all this in, the duo began to build [Moonlight](https://www.moonlightwork.com) - a professional network of software developers - with the goal of helping the world work together to build the future.
 
-Today [Moonlight](https://www.moonlightwork.com)'s community helps thousands of developers get access to flexible work and build careers outside of the Bay Area. Companies ranging from one-person startups to publicly-traded companies use Moonlight to build their networks.
+Today [Moonlight](https://www.moonlightwork.com)'s community helps thousands of developers get access to flexible work and build careers outside of the Bay Area. Companies ranging from one-person startups to publicly-traded companies use Moonlight to build their teams.
 
 ## How to use this encyclopedia
 

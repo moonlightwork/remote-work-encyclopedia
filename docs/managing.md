@@ -8,6 +8,10 @@ title: Manage a remote team
 
 Whether you work in an office or from Starbucks, being a manager is a hard job. You have to be the listener, planner, educator, and cheerleader for a group of people working towards a larger vision.
 
+<ClientOnly>
+  <Tweet id="1040918188886827009" :options="{ conversation: 'none' }" />
+</ClientOnly>
+
 ## Good remote leadership
 
 Especially when it comes to managing a remote team, your organization and communication skills need to be on-point. Some basic tenants of great remote leadership:
