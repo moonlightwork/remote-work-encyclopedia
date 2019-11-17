@@ -85,7 +85,7 @@ Recommended tools: [Outsite](https://www.outsite.co), [Airbnb for work](https://
 - _**Company offsites**: Your company offsite should not feel like hack-a-thon, since you don't need to be in the same room to be heads down on code. Instead, use the time to do group social activities or brainstorming sessions that can't be done remotely. This may be the only time that co-workers have ever met in-person, so make sure it's worth the in-person trip!_
 
 <ClientOnly>
-  <Tweet id="1074749084982861824" :options="{ conversation: 'none' }" />
+  <Tweet id="1131843446359056384" :options="{ conversation: 'none' }" />
 </ClientOnly>
 
 ## Culture and personal connection
