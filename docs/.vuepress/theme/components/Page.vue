@@ -51,8 +51,13 @@ $font-xs = 0.625rem /* 10px */
   flex-direction column
   align-items center
 
+  .formkit-form
+    border 2px solid #EFEFF0
+    box-shadow none
+
 .subscribe-container
-  margin-bottom 2.5rem
+  margin-top 4rem
+  margin-bottom 2rem
 
 .copyright
   color $dark-5
