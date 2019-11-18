@@ -1,7 +1,7 @@
 <template>
   <form
     action="https://app.convertkit.com/forms/1110975/subscriptions"
-    style="background-color: rgb(255, 255, 255); border-radius: 3px;"
+    style="background-color: rgb(255, 255, 255); border-radius: 6px;"
     class="seva-form formkit-form"
     method="post"
     data-sv-form="1110975"
