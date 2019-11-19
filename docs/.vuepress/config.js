@@ -36,7 +36,8 @@ module.exports = {
         sizes: "16x16",
         href: "/assets/img/favicon16x16.png"
       }
-    ]
+    ],
+    ['script', { src: 'https://f.convertkit.com/ckjs/ck.5.js', defer: '' }]
   ],
   serviceWorker: true,
   themeConfig: {
