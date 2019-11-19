@@ -22,7 +22,7 @@ If your company uses email, hosts meetings over video calls, or has shared wiki 
 
 **Remote-first:** Organizations that support some remote workers, primarily in one country. They likely have an office in at least one location. <br>_Example: [Digital Ocean](https://www.digitalocean.com/careers/)_.
 
-**Fully remote:** A company that has employees who are remote most of the time. They get together for group offsite meetings a few times per year. <br>_Example: [Invision](https://www.invisionapp.com/about)_.
+**Fully remote:** A company that has employees who are remote most of the time. They get together for group offsite meetings a few times per year. <br>_Example: [InVision](https://www.invisionapp.com/about)_.
 
 **Global distributed workforce:** Employees are working from anywhere at any time. They would rarely (if ever) need to bring the whole company together in the same physical space. <br>_Example: [GitLab](https://about.gitlab.com/jobs/faq/)_.
 
