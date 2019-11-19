@@ -49,6 +49,10 @@ and meet other developers to grow your career.
 
 - [Remote.co](https://remote.co): Remote.co is your remote work resource. Learn from leading remote companies how to start, grow and manage virtual teams.
 
+<ClientOnly>
+  <Tweet id="1090978853537964033" :options="{ conversation: 'none' }" />
+</ClientOnly>
+
 ## Nailing the remote interview
 
 The interview process will be different for a fully remote team than for a co-located company. You may never meet someone in person before being given an offer. This means that your skills, interests, communication style, and personality need to come through in other ways.

@@ -141,12 +141,13 @@ List of the most important tools you need to run a remote team:
   <Tweet id="1162060618809118720" :options="{ conversation: 'none' }" />
 </ClientOnly>
 
-## Guides from trusted remote companies
+## Guides from trusted remote leaders
 - [Sourcegraph handbook](https://about.sourcegraph.com/handbook)
 - [GitLab handbook](https://about.gitlab.com/handbook/)
 - [Zapier guide to remote work](https://zapier.com/learn/remote-work/)
 - [Remote - office not required](https://basecamp.com/books/remote)
 - [Twist remote work guides](https://doist.com/blog/remote-work-guides/)
+- [Managing remote teams - A crash course](https://klinger.io/post/180989912140/managing-remote-teams-a-crash-course)
 
 
 ![Divider illustration - "I woke up like this"](./assets/divider-illustrations/divider-13.png)
