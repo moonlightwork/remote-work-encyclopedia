@@ -61,7 +61,7 @@ _**Tip**: Embed a Calendly page as one of your onboarding steps and offer some k
 
 ### Prove your idea
 
-The MVP of your product does not need to be backed by any kind of crazy technology. It’s just the simplest thing you can get out there to prove the idea and get people to pay you.\*\* \*\*
+The MVP of your product does not need to be backed by any kind of crazy technology. It’s just the simplest thing you can get out there to prove the idea and get people to pay you.
 
 The first version could just be a landing page where a human is manually performing a service. If it’s a batch photo editing app - do it by hand! If it’s an insurance matchmaker - send them a PDF you researched personally!
 
