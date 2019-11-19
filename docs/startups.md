@@ -16,12 +16,12 @@ Starting a company with a remote-first mindset is a great way to succeed in toda
 Don't just trust us! It's becoming more common by the day for companies to start their companies remotely. Whether it's out of necesity or preference, these teams are defining the future of work. 
 
 - [How Doist Makes Remote Work Happen:](https://doist.com/blog/how-doist-works-remote/) **Doist -** 68 people in 25 countries building a product used by millions. We believe that one day soon this way of working will be the norm.
-- [Remote Life: What's it all about?](https://www.invisionapp.com/inside-design/remote-life-whats-it-all-about/): **Invision -** I’m regularly asked questions about how working remotely for a fully-distributed company compares to traditional office life, so I decided to write a post about it.
+- [Remote Life: What's it all about?](https://www.invisionapp.com/inside-design/remote-life-whats-it-all-about/): **InVision -** I’m regularly asked questions about how working remotely for a fully-distributed company compares to traditional office life, so I decided to write a post about it.
 - [How we do benefits as a remote and international company](https://open.buffer.com/benefits-remote-company/?utm_content=buffer5768a&utm_medium=buffer_social&utm_source=twitter&utm_campaign=buffer_updates): **Buffer -** In this post, we’re going to dive into another big part of working at and running Buffer, which is employee benefits.
 - [All Remote](https://about.gitlab.com/company/culture/all-remote/): **GitLab -** GitLab is an all-remote company with team members located in more than 60 countries around the world. We'll share what "all remote" really means.
 - [The Ultimate Guide to Remote Work](https://zapier.com/learn/remote-work/): **Zapier -** Working remotely and running a remote team seems like black magic to many. Yet at Zapier, we've been working remotely since our founding in October of 2011. This book shares everything we've learned about running a remote team—our successes and our failures.
 - [Stripe's fifth engineering hub is remote](https://stripe.com/en-it/blog/remote-hub): **Stripe -** Stripe has engineering hubs in San Francisco, Seattle, Dublin, and Singapore. We are establishing a fifth hub that is less traditional but no less important: Remote.
-- [How we support remote employees at Digital Ocean](emoteworkencyclopedia.com): **Digital Ocean -** Our remote population totals over 200 employees, making up over 50% of our employees. Here’s what we learned and how we adjusted our efforts to better support the remotee experience.
+- [How we support remote employees at Digital Ocean](https://blog.digitalocean.com/how-we-support-remote-employees-at-digitalocean/): **Digital Ocean -** Our remote population totals over 200 employees, making up over 50% of our employees. Here’s what we learned and how we adjusted our efforts to better support the remotee experience.
 
 ## Getting started
 
@@ -45,7 +45,7 @@ Resources for growing your network and community as a startup:
 
 - [Product Hunt](https://www.producthunt.com): Product Hunt is a curation of the best new products, every day. Discover the latest mobile apps, websites, and technology products that everyone's talking about.
 
-- [Nomad’s List](https://nomadlist.com): Join a global community of international travelers working remotely around the world.
+- [Nomad List](https://nomadlist.com): Join a global community of international travelers working remotely around the world.
 
 - [Creative Mornings](https://creativemornings.com/): Find your people. Every month, we gather in 207 cities across 65 countries, for free.
 
