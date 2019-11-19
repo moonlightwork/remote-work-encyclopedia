@@ -80,6 +80,10 @@ Hiring remote employees is the easiest way to get outside your personal network 
 
 _hint: they don’t all look/think like you, and don’t all live in your city!_
 
+<ClientOnly>
+  <Tweet id="1191332834478370816" :options="{ conversation: 'none' }" />
+</ClientOnly>
+
 #### Write an inclusive job post
 
 You want to attract the best people out there, so it’s tempting to use polarizing words, like "ambitious," “expert,” or “superstar.” But, these words are proven to attract a non-diverse audience, often leading women and other minorities to self-select out of your hiring process altogether. 

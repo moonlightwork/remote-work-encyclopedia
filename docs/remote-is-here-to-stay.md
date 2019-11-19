@@ -8,6 +8,10 @@ title: Remote is here to stay
 
 The resistance to remote has roots in the very place where innovative work culture began. Technology and investment leaders in Silicon Valley found initial success by hosting a lot of young, smart, scrappy people in a shared office for long periods of time. Those very companies invented the tools that make remote work possible.
 
+<ClientOnly>
+  <Tweet id="1192800482986790914" :options="{ conversation: 'none' }" />
+</ClientOnly>
+
 ### Every company is remote
 
 If your company uses email, hosts meetings over video calls, or has shared wiki software - your team is already remote! It's just a spectrum of how remote-friendly your company is willing to be. 
