@@ -66,6 +66,14 @@ export default {
 .dropdown-wrapper.dropdown
   cursor auto
 
+  .nav-dropdown
+    padding 0
+
+.nav-dropdown.dropdown
+  border none
+  border-radius 6px
+  box-shadow 0px 2px 60px rgba(0, 0, 0, 0.16), 0px 4px 18px rgba(0, 0, 0, 0.16)
+
 @media (min-width: ($MQMobile))
   .nav-dropdown.dropdown
     width 700px
