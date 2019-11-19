@@ -82,7 +82,7 @@ Before you get to tax season, make sure to find a professional accountant who un
 
 Traveling full-time while working is an extreme life experiment that can lead to isolation. You will need to find people - either locals or other travelers - to connect with. While you may find those connections organically, it's worth investing in a few travel or entrepreneur communities to meet more people. 
 
-- [Nomads list](https://nomadlist.com): The best cities to live and work remotely for remote workers, based on cost of living, internet speed, weather and other metrics.
+- [Nomad list](https://nomadlist.com): The best cities to live and work remotely for remote workers, based on cost of living, internet speed, weather and other metrics.
 
 - [Bumble BFF](https://bumble.com/bff): Start meeting new people in your area!
 
