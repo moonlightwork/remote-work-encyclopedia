@@ -76,7 +76,7 @@ $font-xs = 0.625rem /* 10px */
 
 // TODO: remove when product hunt banner removed
 .sidebar
-  top 6.6rem
+  top 6.6rem !important
 
 .intro-sidebar.sidebar
   background-color #fff

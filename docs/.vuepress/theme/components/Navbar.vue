@@ -157,7 +157,7 @@ $navbar-horizontal-padding = 1.5rem
     margin-right 1rem
 
 .navbar
-  top 3rem // TODO: remove when product hunt banner removed
+  top 3rem !important // TODO: remove when product hunt banner removed
   padding $navbar-vertical-padding $navbar-horizontal-padding
   line-height $navbarHeight - 1.4rem
   a, span, img
