@@ -20,7 +20,7 @@
     <footer class="footer">
       <ConvertKit class="subscribe-container" />
       <div>
-        Make with ❤️ by
+        Made with ❤️ by
         <a
           href="https://www.moonlightwork.com/"
           rel="noopener"
