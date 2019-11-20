@@ -130,6 +130,7 @@ function css (el, property) {
 $navbar-vertical-padding = 0.7rem
 $navbar-horizontal-padding = 1.5rem
 
+// TODO: remove when product hunt banner removed
 .banner
   align-items center
   background #fae9e4
@@ -156,7 +157,7 @@ $navbar-horizontal-padding = 1.5rem
     margin-right 1rem
 
 .navbar
-  top 3rem
+  top 3rem // TODO: remove when product hunt banner removed
   padding $navbar-vertical-padding $navbar-horizontal-padding
   line-height $navbarHeight - 1.4rem
   a, span, img

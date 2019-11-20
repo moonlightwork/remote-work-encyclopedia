@@ -74,6 +74,10 @@ $font-xs = 0.625rem /* 10px */
   .table-of-content
     display none
 
+// TODO: remove when product hunt banner removed
+.sidebar
+  top 6.6rem
+
 .intro-sidebar.sidebar
   background-color #fff
   background-color transparent
