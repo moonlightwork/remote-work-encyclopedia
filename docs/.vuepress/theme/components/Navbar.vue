@@ -1,5 +1,6 @@
 <template>
   <div>
+    <!-- TODO: remove when product hunt banner removed  -->
     <header class="banner">
       <a
         href="https://www.producthunt.com/posts/remote-work-encyclopedia?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-remote-work-encyclopedia"
@@ -14,7 +15,7 @@
         />
       </a>
       <span>
-        <b>Hey fellow Hunters!</b> Check us out on Product Hunt.
+        Show your support for remote work on Product Hunt!
       </span>
     </header>
     <header class="navbar">
