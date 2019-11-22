@@ -1,23 +1,5 @@
 <template>
   <div>
-    <!-- TODO: remove when product hunt banner removed  -->
-    <header class="banner">
-      <a
-        href="https://www.producthunt.com/posts/remote-work-encyclopedia?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-remote-work-encyclopedia"
-        target="_blank"
-      >
-        <img
-          src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=175063&theme=light"
-          alt="Remote Work Encyclopedia - Moonlight’s tactical guide to working from anywhere | Product Hunt Embed"
-          style="width: 175px; height: 54px;"
-          width="175px"
-          height="54px"
-        />
-      </a>
-      <span>
-        Show your support for remote work on Product Hunt!
-      </span>
-    </header>
     <header class="navbar">
       <SidebarButton @toggle-sidebar="$emit('toggle-sidebar')"/>
   
@@ -131,34 +113,8 @@ function css (el, property) {
 $navbar-vertical-padding = 0.7rem
 $navbar-horizontal-padding = 1.5rem
 
-// TODO: remove when product hunt banner removed
-.banner
-  align-items center
-  background #fae9e4
-  box-sizing border-box
-  color #cc4d29
-  display flex
-  font-size 1rem
-  height 3rem
-  justify-content center
-  left 0
-  padding 0 2rem
-  position fixed
-  right 0
-  top 0
-  z-index 21
-
-  span
-    display none
-
-    @media (min-width: ($MQMobile))
-      display block
-
-  img
-    margin-right 1rem
 
 .navbar
-  top 3rem !important // TODO: remove when product hunt banner removed
   padding $navbar-vertical-padding $navbar-horizontal-padding
   line-height $navbarHeight - 1.4rem
   a, span, img
