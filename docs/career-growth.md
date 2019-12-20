@@ -8,7 +8,7 @@ title: Career growth
 
 In the old world of work, you had to choose between flexibility and success. It was rare to find a position where you could work outside the headquarters, set your own hours, _and_ maintain career growth.
 
-The normalization of remote work has completely changed this. Modern tools enable people with a full spectrum of goals to fulfil their version of success without being chained to their company headquarters at a 9-5 desk.
+The normalization of remote work has completely changed this. Modern tools enable people with a full spectrum of goals to fulfill their version of success without being chained to their company headquarters at a 9-5 desk.
 
 <ClientOnly>
   <Tweet id="1174805458391113728" :options="{ conversation: 'none' }" />
@@ -18,7 +18,7 @@ The normalization of remote work has completely changed this. Modern tools enabl
 
 Big tech giants like Google pioneered the "IC" (Individual Contributor) career path as a high-paying and senior alternative to becoming a manager. Remote work lends well to this career path, since the tools used by individual contributors are largely asynchronous and built for a deep work mindset.
 
-- [The individual contributor path at remote startups](https://blog.remotive.io/the-individual-contributor-path-at-remote-startups/): Here are 4 remote startups offering a paths to individual contributors: Balsamiq, Close.com, HelpScout, Buffer. 
+- [The individual contributor path at remote startups](https://blog.remotive.io/the-individual-contributor-path-at-remote-startups/): Here are 4 remote startups offering a paths to individual contributors: Balsamiq, Close.com, HelpScout, Buffer.
 
 - [How Individuals Advance at Buffer, Without Becoming Managers](https://open.buffer.com/career-framework/): Not everyone can be a manager, especially when the team isn’t expanding. So how does a teammate grow beyond her or his current role?
 
@@ -49,6 +49,7 @@ Continuing to learn should always be part of your job. If you feel comfortable, 
 If your company doesn’t have the resources to support your growth, find ways to do it independently.
 
 #### Take online classes:
+
 Join a program with teachers and mentors, or just take a few video tutorials to stay relevant. You don't need to go into debt at a traditional University in order to continue your education.
 
 - [Udemy](https://www.udemy.com): Udemy is an online learning and teaching marketplace with over 100000 courses and 24 million students.
@@ -76,7 +77,8 @@ Join a program with teachers and mentors, or just take a few video tutorials to 
 </ClientOnly>
 
 #### Speak at conferences and meetups:
-Research conferences that are relevant to your skillset, and start applying to speak. Conferences are usually looking for a diverse set of speakers - so even if you've never done it before, it's worth reaching out. 
+
+Research conferences that are relevant to your skillset, and start applying to speak. Conferences are usually looking for a diverse set of speakers - so even if you've never done it before, it's worth reaching out.
 
 Speaking at conferences is a great way to meet people outside your organization, form a stronger opinion on your work, and help others grow. You might even get a free trip out of it!
 
@@ -87,9 +89,10 @@ Speaking at conferences is a great way to meet people outside your organization,
 - [What I wish someone told me about speaking at tech conferences](https://dev.to/tlakomy/what-i-wished-someone-told-me-about-speaking-at-tech-conferences-3opp): You've been to a couple of tech conferences, saw a number of tech talks and one day you think - "I can probably do that". The good news is that this is true - you CAN do that. The bad news: it's not easy.
 
 #### Become a mentor:
-Find a way to teach other people your skills. Mentor people who are trying to break into the industry or learn a new coding language. The process of teaching someone else will increase your personal knowledge, give you experience as a leader, and help grow your influence and network. 
 
-You can either mentor people who you meet personally, or join a program that will connect you with students looking to learn. 
+Find a way to teach other people your skills. Mentor people who are trying to break into the industry or learn a new coding language. The process of teaching someone else will increase your personal knowledge, give you experience as a leader, and help grow your influence and network.
+
+You can either mentor people who you meet personally, or join a program that will connect you with students looking to learn.
 
 - [Thinkful](https://www.thinkful.com/): Transform aspiring developers into self-sufficient programmers capable of advancing their careers for years to come by sharing your professional and technical knowledge during 1:1 online meetings.
 
@@ -116,20 +119,22 @@ Your network will compound over time, and is one of the most valuable tools as y
 </ClientOnly>
 
 #### Online communities
-Join Slack or Forum communities based on technology skills or personal interests. There are tons of them out there, so pick a few to engage with and start building influence and connections. 
+
+Join Slack or Forum communities based on technology skills or personal interests. There are tons of them out there, so pick a few to engage with and start building influence and connections.
 
 - Join a skill-specific community like the [Gopher Slack community](https://blog.gopheracademy.com/gophers-slack-community/), or the [Vue Land](https://vue.land/) Discord group.
 
 - [Ladies Get Paid](https://www.ladiesgetpaid.com): Career, salary negotiation and professional development for women. Closing the wage gap and fighting for equal pay one raise at a time.
 
-- [Nomad List](https://nomadlist.com): The best cities to live and work remotely for remote workers, based on cost of living, internet speed, weather and other metrics. 
+- [Nomad List](https://nomadlist.com): The best cities to live and work remotely for remote workers, based on cost of living, internet speed, weather and other metrics.
 
-- [Stripe Atlas](https://stripe.com/atlas): Stripe Atlas takes the guesswork out of setting up a startup. Join thousands of founders who have formed companies using Stripe Atlas—and raised over $2 billion in funding.
+- [Stripe Atlas](https://stripe.com/atlas): Stripe Atlas takes the guesswork out of setting up a startup. Join thousands of founders who have formed companies using Stripe Atlas—and raised over \$2 billion in funding.
 
-- [Tech Ladies](https://www.hiretechladies.com): Tech Ladies is a worldwide community of supportive women in tech. Hire more women in tech for your team. 
+- [Tech Ladies](https://www.hiretechladies.com): Tech Ladies is a worldwide community of supportive women in tech. Hire more women in tech for your team.
 
-#### In-person 
-While working remotely, you still want to make sure you have a strong professional local network of people that you can meet face-to-face throughout the work week. Tap into local events, meet people 1:1, or go to small group dinners. 
+#### In-person
+
+While working remotely, you still want to make sure you have a strong professional local network of people that you can meet face-to-face throughout the work week. Tap into local events, meet people 1:1, or go to small group dinners.
 
 - [Meetup.com](https://www.meetup.com): Find Meetups so you can do more of what matters to you. Or create your own group and meet people near you who share your interests.
 
@@ -141,8 +146,9 @@ While working remotely, you still want to make sure you have a strong profession
 
 - [Indie Hackers meetups](https://www.indiehackers.com/meetups): Find other indie hackers in your area so you can learn, share, and work together.
 
-#### Coworking 
-Working from an office with other people is one of the best ways to meet people in an organic way. Find a local coworking space where you can "go to work" and casually build a group of friends at the same location. 
+#### Coworking
+
+Working from an office with other people is one of the best ways to meet people in an organic way. Find a local coworking space where you can "go to work" and casually build a group of friends at the same location.
 
 Building a community around your flexible work will help you create a routine, feel connected, and build up your professional network.
 
