@@ -18,7 +18,7 @@ Thousands of dollars worth of goods were being sent in a shipping container for 
 
 The internet allowed people to start building businesses from anywhere. A physical product wasn’t even needed. The people working on technology businesses were still largely in the Bay Area, but their customers were everywhere.
 
-Companies like Google and Facebook greatly increased the spread of information. Airbnb, Uber, and SkyScanner made it easier for people to move around. Zoom, Slack, and Github made it possible to work from anywhere.
+Companies like Google and Facebook greatly increased the spread of information. Airbnb, Uber, and SkyScanner made it easier for people to move around. Zoom, Slack, and GitHub made it possible to work from anywhere.
 
 While the tech giants could offer free lunches, top salaries, and amazing benefits, there’s something they couldn't offer: flexibility and independence. Once information could be accessed from anywhere in the world in seconds, workers no longer needed to be sitting next to each other in Mountain View.
 
