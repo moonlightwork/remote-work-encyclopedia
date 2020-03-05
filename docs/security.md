@@ -34,7 +34,7 @@ Some insurance providers, such as [Coalition](https://www.thecoalition.com/) eve
 
 #### Control the code
 
-Have all code under version control—through [Github](https://github.com), [GitLab](https://gitlab.com), [Bitbucket](https://bitbucket.org/product), or another version control service — so that all parties can maintain the complete history of work.
+Have all code under version control—through [GitHub](https://github.com), [GitLab](https://gitlab.com), [Bitbucket](https://bitbucket.org/product), or another version control service — so that all parties can maintain the complete history of work.
 
 If there is a dispute or lapse, you do not want to lose access to the code which you own. Maintain admin or owner rights to the repositories so that you can manage access as contractors ramp up and ramp down from the project. Clearly communicate to the contractor what they can and cannot do within the repository.
 
@@ -100,7 +100,7 @@ A safe solution should encrypt the data directly between users. We recommend usi
 
 #### Enforce two-step verification for everything
 
-Secure account access should always rely on something you know, and something you have. Explain the importance of enabling a second factor for all online accounts to employees, and enforce it as a requirement where possible (e.g., on [Slack](https://slack.com/help/articles/212221668-Mandatory-workspace-two-factor-authentication-) and [Github](https://help.github.com/en/github/setting-up-and-managing-organizations-and-teams/requiring-two-factor-authentication-in-your-organization)).
+Secure account access should always rely on something you know, and something you have. Explain the importance of enabling a second factor for all online accounts to employees, and enforce it as a requirement where possible (e.g., on [Slack](https://slack.com/help/articles/212221668-Mandatory-workspace-two-factor-authentication-) and [GitHub](https://help.github.com/en/github/setting-up-and-managing-organizations-and-teams/requiring-two-factor-authentication-in-your-organization)).
 
 The most secure second-factor is [Fido U2F](https://www.yubico.com/fido-u2f/), which uses a phishing-proof USB key to verify identity. We strongly recommend issuing these physical keys to all employees!
 
