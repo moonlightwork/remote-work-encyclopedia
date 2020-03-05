@@ -115,7 +115,7 @@ List of the most important tools you need to run a remote team:
 
 - [Notion](https://www.notion.so) or [Slab](https://slab.com) - Internal documentation, task board, and meeting notes.
 
-- [Github](https://github.com) or [Gitlab](https://gitlab.com) - Remote code collaboration and review.
+- [GitHub](https://github.com) or [Gitlab](https://gitlab.com) - Remote code collaboration and review.
 
 - [Visual Studio Code](https://code.visualstudio.com) - Free text editor combine with Live plugin to collaborate remotely.
 
