@@ -26,6 +26,10 @@ If your company uses email, hosts meetings over video calls, or has shared wiki 
 
 **Global distributed workforce:** Employees are working from anywhere at any time. They would rarely (if ever) need to bring the whole company together in the same physical space. <br>_Example: [GitLab](https://about.gitlab.com/jobs/faq/)_.
 
+<ClientOnly>
+  <Tweet id="1188017510014164992" :options="{ conversation: 'none' }" />
+</ClientOnly>
+
 ## Who are remote workers?
 
 Making the switch to remote requires  a transition period. People must learn to be better communicators, work in a more organized way, and do more to build a social community. Early adopters to the remote movement were stereotypically introverted, highly specialized knowledge workers. 
