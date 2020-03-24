@@ -22,14 +22,17 @@ Don't just trust us! It's becoming more common by the day for companies to start
 - [The Ultimate Guide to Remote Work](https://zapier.com/learn/remote-work/): **Zapier -** Working remotely and running a remote team seems like black magic to many. Yet at Zapier, we've been working remotely since our founding in October of 2011. This book shares everything we've learned about running a remote team—our successes and our failures.
 - [Stripe's fifth engineering hub is remote](https://stripe.com/en-it/blog/remote-hub): **Stripe -** Stripe has engineering hubs in San Francisco, Seattle, Dublin, and Singapore. We are establishing a fifth hub that is less traditional but no less important: Remote.
 - [How we support remote employees at Digital Ocean](https://blog.digitalocean.com/how-we-support-remote-employees-at-digitalocean/): **Digital Ocean -** Our remote population totals over 200 employees, making up over 50% of our employees. Here’s what we learned and how we adjusted our efforts to better support the remotee experience.
+- [180 Tips for Remote Working](https://usefyi.com/remote-work-tips/) & [The Remote Work Report:](https://usefyi.com/remote-work-report/) **FYI -** Best practices and tips for working remotely. Categorized by management, communication, working style, and more.
+- [11 Best Practices for Working Remotely](https://usefyi.com/remote-work-best-practices/): **Marie Prokopets -** Even though most people love working remotely, remote work has a lot of challenges. It’s easy to fall into many of the traps of remote work, especially if you’re new to it.
+- [58 Must-Read Remote Work Resources](https://usefyi.com/remote-work-resources/): **Hiten Shah -** Whether a company is fully distributed (remote), co-located in one office or distributed across multiple offices, the way that work gets done will increasingly look like what we’ve been calling remote work.
+
+<ClientOnly>
+  <Tweet id="1161194885069697024" :options="{ conversation: 'none' }" />
+</ClientOnly>
 
 ## Getting started
 
 To succeed as a startup (whether co-located or remote!), you need to build something people want and prove that you have some kind of traction. It really doesn't matter where your employees are located until you have the basics of an interesting and profitable business.  
-
-<ClientOnly>
-  <Tweet id="1157146858617069569" :options="{ conversation: 'none' }" />
-</ClientOnly>
 
 ### Meet people and talk to your users
 
@@ -58,6 +61,10 @@ Resources for growing your network and community as a startup:
 There are a ton more resources out there for meeting people. Ask around in your online or local community to start curating your list of events and tools to grow your network. 
 
 _**Tip**: Embed a Calendly page as one of your onboarding steps and offer some kind of free service over a video call. It’s an easy way to talk with more people, learn from them, and gain trust from the users._
+
+<ClientOnly>
+  <Tweet id="1157146858617069569" :options="{ conversation: 'none' }" />
+</ClientOnly>
 
 ### Prove your idea
 
